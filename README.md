@@ -15,7 +15,7 @@ I'm Cameron Frye
 - CSE1321 Programming and Problem Solving
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cameron Frye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CameronFrye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
 
 <!--
 - 👋 Hi, I’m Cameron Frye.
