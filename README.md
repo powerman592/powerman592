@@ -2,6 +2,21 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100"/>
 </div>
 
+#Welcome!
+---
+### 👨‍💻: About Me:
+I'm Cameron Frye
+
+*Currently*: Computer Engineering student at Kennesaw State University
+
+### 💻I'm Currently Learning
+---
+- EE2301 Circuit Analysis
+- CSE1321 Programming and Problem Solving
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
+
 - 👋 Hi, I’m Cameron Frye.
 - 👀 I’m interested in ...
 - 🌱 I’m currently a student at Kennesaw State University majoring in Computer Engineering.
