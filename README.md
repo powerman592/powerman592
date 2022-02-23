@@ -15,13 +15,15 @@ I'm Cameron Frye
 - CSE1321 Programming and Problem Solving
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cameron Frye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
 
+<!--
 - 👋 Hi, I’m Cameron Frye.
 - 👀 I’m interested in ...
 - 🌱 I’m currently a student at Kennesaw State University majoring in Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
 
 <!---
 powerman592/powerman592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
