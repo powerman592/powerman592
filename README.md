@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Cameron Frye.
 - 👀 I’m interested in ...
 - 🌱 I’m currently a student at Kennesaw State University majoring in Computer Engineering.
