@@ -7,7 +7,7 @@
 ### 👨‍💻: About Me:
 I'm Cameron Frye
 
-*Currently*: Computer Engineering student at Kennesaw State University
+I am currently pursuing a B.S. in Computer Engineering at Kennesaw State University.
 
 ### 💻I'm Currently Learning
 ---
