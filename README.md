@@ -9,13 +9,24 @@ I'm Cameron Frye
 
 I am currently pursuing a B.S. in Computer Engineering at Kennesaw State University.
 
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CameronFrye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye592)
+---
+
 ### 💻I'm Currently Learning
 ---
-- EE2301 Circuit Analysis
-- CSE1321 Programming and Problem Solving
+- Verilog
+- Data Structures & Algorithms
+- Computer Architecture
 
+### 💻Some of my relevant coursework includes:
+---
+- EE2501 Digital Logic & Design [Course Description](https://catalog.kennesaw.edu/preview_course_nopop.php?catoid=24&coid=43058)
+- EE3401 Engineering Electronics [Course Description](https://catalog.kennesaw.edu/preview_course_nopop.php?catoid=24&coid=43059)
+- EE2301 Circuit Analysis [Course Description](https://catalog.kennesaw.edu/preview_course_nopop.php?catoid=24&coid=43055) 
+- CSE1321 Programming and Problem Solving 1 [Course Description](https://catalog.kennesaw.edu/preview_course_nopop.php?catoid=54&coid=87181)
+- Calculus 1 & 2
+- Physics 1 & 2
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CameronFrye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye)
 
 <!--
 - 👋 Hi, I’m Cameron Frye.
