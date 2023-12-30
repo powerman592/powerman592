@@ -9,8 +9,8 @@ I'm Cameron Frye
 
 I am currently pursuing a B.S. in Computer Engineering at Kennesaw State University.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CameronFrye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye592)
----
+### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CameronFrye-blue?style=flat&logo=Linkedin&logoColor=white)](linked.com/in/cameronfrye592)
+
 
 ### 💻I'm Currently Learning
 ---
